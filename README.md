@@ -1,18 +1,5 @@
-# Hey there I'm Akash,  a Biotechnology student in SLIIT, Malabe. 
-
-
-
-## About me<br>
-  - Name: Akash Induwara
-  - Date of Birth: 2002.02.25
-  - Gender: Male
-  - Nationality: Sinhala
-  - Civil Status: Unmarried
-  - Religion: Buddhism
-  - Contact:
-      - Phone: 076-1353671
-      - Address: No 22/2, Near the Tank, Kiripedda, Karandeniya
-      - Email: nimmathakash@gmail.com
+# Hey there I'm Akash Nimnath,
+## I am a highly motivated and results oriented biotechnology student with a passion for Molecular Biology, Gnetic and Bioinformatics. My academic background includes coursework in molecular biology, microbiology and biochemistry.As a biotechnology student I am fasinated by the potential of this field to revolutionize healthcare and the environment. My portfolio showcase my dedication to learning and my ability to apply theoritical knowledge to practical applications. I am eager to contribute my skills and enthusiasm to a challenging and rewarding career in the Biotechnology field.
 
 ## languages:
   - Sinhala
