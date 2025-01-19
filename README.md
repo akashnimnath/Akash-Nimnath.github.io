@@ -1,9 +1,5 @@
 # Biotechnology student
 
-## Education
-BSc (hons) in Biotechnology<br>
-undergraduate</br>
-
 ## personal_info<br>
   - Name: Akash Induwara</br>
   - Date of Birth: 2002.02.25
