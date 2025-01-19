@@ -48,7 +48,7 @@
 [Link to my PDF](https://github.com/akashnimnath/Akash-Nimnath.github.io/blob/2293ef411c6f4d850e844058dff4c9185bc696f0/Assignment%2001_HS24103998%20.pdf)
 
 ## You can contact me easily
-My email: nimnathakash@gmail.com
+My email: nimnathakash@gmail.com<br>
 Whatsapp: +94 76 135 3671
 
 
