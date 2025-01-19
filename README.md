@@ -35,4 +35,4 @@
   - Club Membership: Member of IT and Business clubs at Dharmashoka College.<br>
                      Member of Damso Swimming Club.
   - Sports Participation: Represented the school in inter-school cricket tournaments.
-
+![image alt](https://github.com/akashnimnath/Akash-Nimnath.github.io/blob/159d8942ad8a0d1ef60f996d7ac1e22b9c1f5ed8/14f1cb15-a1b6-43a7-872d-e296bd672c20.jpg)
