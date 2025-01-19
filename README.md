@@ -1,6 +1,8 @@
 # Hey there I'm Akash Nimnath,
 ## I am a highly motivated and results oriented biotechnology student with a passion for Molecular Biology, Gnetic and Bioinformatics. My academic background includes coursework in molecular biology, microbiology and biochemistry.As a biotechnology student I am fasinated by the potential of this field to revolutionize healthcare and the environment. My portfolio showcase my dedication to learning and my ability to apply theoritical knowledge to practical applications. I am eager to contribute my skills and enthusiasm to a challenging and rewarding career in the Biotechnology field.
 
+
+
 ## languages:
   - Sinhala
   - English
@@ -35,4 +37,4 @@
   - Club Membership: Member of IT and Business clubs at Dharmashoka College.<br>
                      Member of Damso Swimming Club.
   - Sports Participation: Represented the school in inter-school cricket tournaments.
-![image alt](https://github.com/akashnimnath/Akash-Nimnath.github.io/blob/159d8942ad8a0d1ef60f996d7ac1e22b9c1f5ed8/14f1cb15-a1b6-43a7-872d-e296bd672c20.jpg)
+
