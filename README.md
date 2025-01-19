@@ -43,6 +43,7 @@
 
 ## extracurricular_activities:
   - Volunteer Work: Participated in community service projects or charity events.
-  - Club Membership: Member of IT and Business clubs at Dharmashoka College.
+  - Club Membership: Member of IT and Business clubs at Dharmashoka College.<br>
+                     Member of Damso Swimming Club.</br>
   - Sports Participation: Represented the school in inter-school cricket tournaments.
 
