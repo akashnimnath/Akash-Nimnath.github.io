@@ -2,7 +2,7 @@
 
 
 
-## personal_info<br>
+## About me<br>
   - Name: Akash Induwara
   - Date of Birth: 2002.02.25
   - Gender: Male
