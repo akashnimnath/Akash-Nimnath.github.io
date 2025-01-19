@@ -38,3 +38,12 @@
                      Member of Damso Swimming Club.
   - Sports Participation: Represented the school in inter-school cricket tournaments.
 
+## Creativity and Passion:
+  - Drawing/Sketching: Easy to start, relaxing and showcase creativity.
+  - Photography: Capture my interests and perspective.
+  - Writing: Blogging, journaling and short stories.
+  - Hiking/Nature Walks
+
+## My resume
+
+
