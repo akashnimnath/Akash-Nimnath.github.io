@@ -1,1 +1,5 @@
-# Akash-Nimnath.github.io
+# Biotechnology student
+
+## Education
+BSc (hons) in Biotechnology
+undergraduate
