@@ -1,7 +1,7 @@
 # Biotechnology student
 
 ## personal_info<br>
-  - Name: Akash Induwara</br>
+  - Name: Akash Induwara
   - Date of Birth: 2002.02.25
   - Gender: Male
   - Nationality: Sinhala
@@ -44,6 +44,6 @@
 ## extracurricular_activities:
   - Volunteer Work: Participated in community service projects or charity events.
   - Club Membership: Member of IT and Business clubs at Dharmashoka College.<br>
-                     Member of Damso Swimming Club.</br>
+                     Member of Damso Swimming Club.
   - Sports Participation: Represented the school in inter-school cricket tournaments.
 
