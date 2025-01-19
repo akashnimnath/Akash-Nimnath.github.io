@@ -4,19 +4,19 @@
 BSc (hons) in Biotechnology
 undergraduate
 ##personal info
-  #name: Akash Induwara
-  #full_name: Senevirathne Arachchige Akash Induwara Nimmath
-  initials: S.A.A.I. Nimmath
-  date_of_birth: 2002.02.25
-  age: 22
-  gender: Male
-  nationality: Sinhala
-  civil_status: Unmarried
-  religion: Buddhism
-  contact:
-    phone: 076-1353671
-    address: No 22/2, Near the Tank, Kiripedda, Karandeniya
-    email: nimmathakash@gmail.com
+name: Akash Induwara
+full_name: Senevirathne Arachchige Akash Induwara Nimmath
+initials: S.A.A.I. Nimmath
+date_of_birth: 2002.02.25
+age: 22
+gender: Male
+nationality: Sinhala
+civil_status: Unmarried
+religion: Buddhism
+contact:
+phone: 076-1353671
+address: No 22/2, Near the Tank, Kiripedda, Karandeniya
+email: nimmathakash@gmail.com
 
 ##languages:
   - Sinhala
