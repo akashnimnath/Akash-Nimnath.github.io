@@ -2,5 +2,5 @@
 
 ## Education
 BSc (hons) in Biotechnology
-+undergraduate
+*undergraduate
 
