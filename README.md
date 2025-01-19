@@ -1,7 +1,7 @@
 # Hey there I'm Akash Nimnath,
-## I am a highly motivated and results oriented biotechnology student with a passion for Molecular Biology, Gnetic and Bioinformatics. My academic background includes coursework in molecular biology, microbiology and biochemistry.As a biotechnology student I am fasinated by the potential of this field to revolutionize healthcare and the environment. My portfolio showcase my dedication to learning and my ability to apply theoritical knowledge to practical applications. I am eager to contribute my skills and enthusiasm to a challenging and rewarding career in the Biotechnology field.
+## I am a highly motivated and results oriented biotechnology student with a passion for Molecular Biology, Gnetic and Bioinformatics. My academic background includes coursework in molecular biology, microbiology and biochemistry.As a biotechnology student I am fasinated by the potential of this field to revolutionize healthcare and the environment. My portfolio showcase my dedication to learning and my ability to apply theoritical knowledge to practical applications. I am eager to contribute my skills and enthusiasm to a challenging and rewarding career in the Biotechnology field. 
 
-
+![image alt](https://github.com/akashnimnath/Akash-Nimnath.github.io/blob/b6abe7eb740b4778e122f4982dfcef94b1166b3c/25ccb687-b292-491e-abed-ac5ceb52ce7d.jpg)
 
 ## languages:
   - Sinhala
