@@ -1,6 +1,6 @@
 # Hey there I'm Akash,  a Biotechnology student in SLIIT, Malabe. 
 
-# Biotechnology student
+
 
 ## personal_info<br>
   - Name: Akash Induwara
