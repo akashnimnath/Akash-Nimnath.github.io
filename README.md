@@ -22,4 +22,27 @@
   - Time Management
   - Teamwork
   - Creativity
+  - 
+## education:
+  - G.C.E Advanced Level Examination – 2023
+    - Biology: C
+    - Chemistry: C
+    - Physics: S
+  - G.C.E Ordinary Level Examination – 2018
+    - Sinhala: A
+    - Buddhism: A
+    - Mathematics: A
+    - Science: A
+    - History: A
+    - English: A
+    - Literature: A
+    - Commerce: A
+    - ICT: B
+  - Bachelor of Science in Biotechnology
+    - Institution: Sri Lanka Institute of Information Technology (SLLIT) - Malabe
+
+## extracurricular_activities:
+  - Volunteer Work: Participated in community service projects or charity events.
+  - Club Membership: Member of IT and Business clubs at Dharmashoka College.
+  - Sports Participation: Represented the school in inter-school cricket tournaments.
 
