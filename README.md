@@ -4,8 +4,8 @@
 BSc (hons) in Biotechnology
 undergraduate
 ##personal info
-  name: Akash Induwara
-  full_name: Senevirathne Arachchige Akash Induwara Nimmath
+  #name: Akash Induwara
+  #full_name: Senevirathne Arachchige Akash Induwara Nimmath
   initials: S.A.A.I. Nimmath
   date_of_birth: 2002.02.25
   age: 22
